@@ -147,7 +147,7 @@
         <dependency>
             <groupId>org.springframework.security</groupId>
             <artifactId>spring-security-rsa</artifactId>
-            <version>1.0.7.RELEASE</version>
+            <version>1.0.12.RELEASE</version>
         </dependency>
 
         <dependency>
